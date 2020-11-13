@@ -1,5 +1,6 @@
-# Travis-Neilson-Website
+#Sameercoursesite.github.io
 This is the (old) Travis Neilson personal website
 
 
-https://traportfolio.netlify.com/
+https://sameercoursesite.github.io
+
